@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.950982, 43.401325]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Арена Льдинка",
+        "category": "sport",
+        "description": "Ледовая арена для тренировок и соревнований по хоккею и фигурному катанию. Современный спортивный комплекс с трибунами для зрителей.",
+        "photo": "/images/ldinka-arena.jpg",
+        "workingHours": "08:00–22:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.401325,39.950982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.951963, 43.402367]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Шайба",
+        "category": "sport",
+        "description": "Ледовый дворец спорта, построенный к Олимпийским играм 2014 года. Используется для хоккейных матчей и массовых катаний.",
+        "photo": "/images/shayba.jpg",
+        "workingHours": "09:00–21:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.402367,39.951963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.955912, 43.401996]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Фишт",
+        "category": "sport",
+        "description": "Главный стадион Олимпийских игр 2014 года. Уникальное архитектурное сооружение с узнаваемым силуэтом на фоне Кавказских гор.",
+        "photo": "/images/fisht.jpg",
+        "workingHours": "По расписанию мероприятий",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.401996,39.955912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.949919, 43.404407]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Большой",
+        "category": "sport",
+        "description": "Большой ледовый дворец — крупнейшая ледовая арена Олимпийских игр. Вмещает более 12 000 зрителей. Сегодня используется для спортивных и культурных мероприятий.",
+        "photo": "/images/bolshoy.jpg",
+        "workingHours": "10:00–22:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.404407,39.949919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.954701, 43.405471]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Чаша Олимпийского огня",
+        "category": "architecture",
+        "description": "Знаменитая чаша, где горел олимпийский огонь зимних Игр 2014 года. Символ олимпийского движения и архитектурная доминанта Олимпийского парка.",
+        "photo": "/images/olympic-cauldron.jpg",
+        "workingHours": "Круглосуточно",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.405471,39.954701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.958434, 43.407446]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Айсберг",
+        "category": "sport",
+        "description": "Ледовый дворец спорта, построенный для соревнований по фигурному катанию и шорт-треку. Современная архитектура и техническое оснащение.",
+        "photo": "/images/iceberg.jpg",
+        "workingHours": "09:00–21:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.407446,39.958434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.952941, 43.408672]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Сириус Арена",
+        "category": "sport",
+        "description": "Многофункциональный спортивный комплекс для проведения соревнований и тренировок по различным видам спорта.",
+        "photo": "/images/sirius-arena.jpg",
+        "workingHours": "08:00–23:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.408672,39.952941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.949528, 43.406953]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Ледяной куб",
+        "category": "sport",
+        "description": "Ледовый дворец для кёрлинга. Построен к Олимпийским играм и продолжает использоваться для тренировок и соревнований.",
+        "photo": "/images/ice-cube.jpg",
+        "workingHours": "09:00–20:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.406953,39.949528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.96649, 43.404222]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Сочи Парк",
+        "category": "entertainment",
+        "description": "Тематический парк развлечений, посвящённый русским сказкам и былинам. Аттракционы, шоу и развлекательные программы для всей семьи.",
+        "photo": "/images/sochi-park.jpg",
+        "workingHours": "10:00–20:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.404222,39.96649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.949589, 43.399878]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Спортивный парк «Сириус»",
+        "category": "sport",
+        "description": "Благоустроенная территория для активного отдыха и занятий спортом. Беговые дорожки, спортивные площадки и зоны отдыха.",
+        "photo": "/images/sport-park.jpg",
+        "workingHours": "06:00–23:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.399878,39.949589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.94918, 43.414431]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Буран",
+        "category": "architecture",
+        "description": "Орбитальный корабль-ракетоплан, установленный в качестве памятника космической программе. Уникальный экспонат, доступный для посещения.",
+        "photo": "/images/buran.jpg",
+        "workingHours": "10:00–18:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.414431,39.94918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.951181, 43.414073]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Музей «Фанагория»",
+        "category": "museum",
+        "description": "Археологический музей, посвящённый древнегреческой колонии Фанагория. Уникальные экспонаты античного периода, найденные при раскопках.",
+        "photo": "/images/fanagoria.jpg",
+        "workingHours": "10:00–18:00, Пн — выходной",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.414073,39.951181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.950831, 43.415008]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Университет Сириус",
+        "category": "education",
+        "description": "Научно-технологический университет федеральной территории «Сириус». Инновационный образовательный центр с современными лабораториями.",
+        "photo": "/images/sirius-university.jpg",
+        "workingHours": "08:00–20:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.415008,39.950831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.935196, 43.417685]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Парк «Южные культуры»",
+        "category": "park",
+        "description": "Памятник садово-паркового искусства XIX века. Основан генералом Д.В. Драчевским в 1910 году. Уникальная коллекция экзотических растений со всего мира.",
+        "photo": "/images/yuzhnye-kultury.jpg",
+        "workingHours": "09:00–18:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.417685,39.935196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.959017, 43.399808]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Музыкальный сад",
+        "category": "park",
+        "description": "Уникальное общественное пространство, где природа сочетается с музыкальным искусством. Проводятся концерты под открытым небом.",
+        "photo": "/images/music-garden.jpg",
+        "workingHours": "08:00–22:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.399808,39.959017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.963602, 43.399033]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Ботанический сад Сириус",
+        "category": "park",
+        "description": "Научно-образовательный ботанический сад с коллекцией растений различных климатических зон. Идеальное место для прогулок и изучения природы.",
+        "photo": "/images/botanical-garden.jpg",
+        "workingHours": "08:00–19:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.399033,39.963602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.960915, 43.399324]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Теннисные корты",
+        "category": "sport",
+        "description": "Современные теннисные корты для профессиональных тренировок и любительской игры. Проводятся турниры и мастер-классы.",
+        "photo": "/images/tennis-courts.jpg",
+        "workingHours": "07:00–22:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.399324,39.960915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.962645, 43.399072]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Начальная школа Президентского лицея «Сириус»",
+        "category": "education",
+        "description": "Современное образовательное учреждение для младших школьников с углублённым изучением предметов и творческим развитием.",
+        "photo": "/images/presidential-lyceum.jpg",
+        "workingHours": "08:00–18:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.399072,39.962645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.964626, 43.400525]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Образовательный центр «Сириус»",
+        "category": "education",
+        "description": "Центр выявления и поддержки одарённых детей со всей России. Уникальные образовательные программы по науке, спорту и искусству.",
+        "photo": "/images/sirius-center.jpg",
+        "workingHours": "08:00–20:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.400525,39.964626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.9652, 43.399039]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Средняя специальная музыкальная школа",
+        "category": "education",
+        "description": "Музыкальная школа для одарённых детей с программами профессионального обучения игре на музыкальных инструментах.",
+        "photo": "/images/music-school.jpg",
+        "workingHours": "08:00–20:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.399039,39.9652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.991743, 43.394457]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Орнитологический парк",
+        "category": "park",
+        "description": "Природный парк с богатой орнитофауной. Идеальное место для наблюдения за птицами и экологических прогулок в естественной среде.",
+        "photo": "/images/ornithological-park.jpg",
+        "workingHours": "Круглосуточно",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.394457,39.991743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.988064, 43.395656]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Раскоп Византийского храма",
+        "category": "museum",
+        "description": "Археологический памятник — раскопки византийского храма IX-X веков. Уникальное место для знакомства с древней историей региона.",
+        "photo": "/images/byzantine-temple.jpg",
+        "workingHours": "09:00–17:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.395656,39.988064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.981593, 43.403972]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Многопрофильная гимназия «Сириус»",
+        "category": "education",
+        "description": "Общеобразовательное учреждение с углублённым изучением предметов естественно-научного и гуманитарного циклов.",
+        "photo": "/images/gymnasium.jpg",
+        "workingHours": "08:00–18:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.403972,39.981593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.980592, 43.402864]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Детский сад «Сириус»",
+        "category": "education",
+        "description": "Современный детский сад с инновационными образовательными программами и развитой инфраструктурой для дошкольников.",
+        "photo": "/images/kindergarten.jpg",
+        "workingHours": "07:00–19:00",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.402864,39.980592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.97993, 43.403064]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Напольные шахматы",
+        "category": "entertainment",
+        "description": "Интерактивная зона отдыха с гигантскими напольными шахматами. Популярное место для интеллектуального досуга и фото.",
+        "photo": "/images/chess.jpg",
+        "workingHours": "Круглосуточно",
+        "externalMapUrl": "https://yandex.ru/maps/?rtext=~43.403064,39.97993"
+      }
+    }
+  ]
+}
